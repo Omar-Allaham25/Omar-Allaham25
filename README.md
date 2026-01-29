@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Omar
 
-<!--
-**Omar-Allaham25/Omar-Allaham25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student | Backend Developer  
+Focused on building secure, scalable RESTful APIs and clean backend architectures
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Backend:** Node.js, Express, PHP, Laravel
+- **Database:** MySQL
+- **Authentication:** JWT, Bcrypt
+- **Tools:** Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+🔹 **Job Tracker API**  
+Backend system for managing job applications  
+- Node.js, Express, MySQL  
+- JWT Authentication & Role-based Access  
+- MVC Architecture  
+🔗 https://github.com/Omar-Allaham25/Job-Tracker
+
+🔹 **Student Marketplace**  
+Backend for student services platform  
+- RESTful API  
+- Relational database design (MySQL)
+
+
+### 🌱 Currently Learning
+- Advanced Backend Development
+- System Design fundamentals
+- Clean Architecture principles
+
+
+### 📫 Contact Me
+- LinkedIn: https://linkedin.com/in/omaraliallaham
+- Email: omarlaham246@gmail.com
