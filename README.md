@@ -3,8 +3,7 @@
 Software Engineering student | Backend Developer  
 Focused on building secure, scalable RESTful APIs and clean backend architectures
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-Allaham25&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Omar-Allaham25&show_icons=true&theme=radical)
 ### 🛠 Tech Stack
 
 **Backend:** Node.js, Express
